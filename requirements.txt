@@ -1,0 +1,11 @@
+# Build Git From Scratch - Python Dependencies
+
+# Google Fire for elegant CLI interfaces
+fire>=0.4.0
+
+# Standard library modules used:
+# - hashlib (built-in)
+# - zlib (built-in) 
+# - pathlib (built-in)
+# - stat (built-in)
+# - tempfile (built-in)
