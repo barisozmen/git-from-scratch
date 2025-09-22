@@ -1,8 +1,9 @@
 # Git From Scratch
 Educational Git implementation in Python. From first principles.
 
+Accompanying [slides](https://docs.google.com/presentation/d/1elyuvcdUsoOgDUpBz537iEdjximkDF6qBjaiG92B4RY/edit?usp=sharing)
 
-https://alexwlchan.net/a-plumbers-guide-to-git/
+[alexwlchan.net/a-plumbers-guide-to-git/](https://alexwlchan.net/a-plumbers-guide-to-git/)
 
 [Linus Torvalds interview with GitHub](https://www.youtube.com/watch?v=sCr_gb8rdEI)
 
